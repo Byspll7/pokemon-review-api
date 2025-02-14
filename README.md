@@ -1,6 +1,6 @@
-This project is a C# API application designed to manage and access Pokémon data. The API provides information such as different Pokémon types, abilities, attacks, and stats. It is developed for educational purposes to help understand both C# API development processes and RESTful API structures.
 
-Features:
+
+<h1>Features:</h1>
 List, add, update, and delete Pokémon data.
 Developed following RESTful API standards.
 Provides responses in JSON format.
